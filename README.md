@@ -1,7 +1,3 @@
-Sure, here's a generic README for the root of your project, which encompasses both the backend and frontend components.
-
----
-
 # MERN Book Store App
 
 ## Introduction
