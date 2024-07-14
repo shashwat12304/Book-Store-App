@@ -7,6 +7,7 @@ Welcome to the MERN Book Store App! This application is a full-featured online b
 ## Techstack
 <center><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,nodejs,express,mongodb,mongoose" /></center><br>
 <center><img src="https://go-skill-icons.vercel.app/api/icons?i=react,redux,tailwind,vite,javascript,html,css" /></center><br>
+
 ## Project Structure
 
 The project is divided into two main parts:
